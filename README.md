@@ -1,2 +1,3 @@
-console-api
+Coreix Console API Developers Guide
 ===========
+
